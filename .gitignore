@@ -1,0 +1,16 @@
+# Compiled C files
+*.out
+*.o
+*.obj
+*.exe
+
+# Backup files
+*~
+*.bak
+
+# Debug logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
